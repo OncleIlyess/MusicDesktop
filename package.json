@@ -1,0 +1,15 @@
+{
+  "name": "lumzapp-electron",
+  "version": "1.0.0",
+  "description": "Electron app of LumzMusic",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Alphabet, Gab",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^13.0.1",
+    "electron-util": "^0.16.0"
+  }
+}
